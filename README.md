@@ -1,2 +1,2 @@
-<h1>Dear, Visitor</h1>
-<p>  Welcome to my github profile.</p>
+<h1>Welcome Visitor!</h1>
+<p>Check my contributions below. One of my contributions is a fork of the webkit repo on github even though I forked and made no changes I gues you can count that as a contribution.</p>
