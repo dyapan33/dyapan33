@@ -5,7 +5,7 @@ Hi im AstroBolo/Cyber Coding the creator of projects like H.A.L and more
 #
 # Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=dark)
 
 
 # Most Used Languages
