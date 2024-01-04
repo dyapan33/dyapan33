@@ -4,7 +4,7 @@
 #
 # Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=ubuntu)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=synthwave)
 
 
 # Most Used Languages
