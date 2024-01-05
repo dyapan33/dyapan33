@@ -1,5 +1,5 @@
 <h1>Welcome Visitor!</h1>
-<p>Check my contributions below. One of my contributions is a fork of the Nuklear repo on github even though I forked and made no changes I gues you can count that as a contribution.</p>
+<p>Check my contributions below.</p>
 
 #
 # Past on GitHub
@@ -9,7 +9,7 @@
 #
 # Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=radical)
 
 
 # Most Used Languages
