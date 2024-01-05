@@ -18,6 +18,6 @@
 
 #
 # My Website
-PERSONAL #1: <a href="dyapan33.github.io">dyapan33.github.io</a>
+PERSONAL #1: <a href="http://dyapan33.github.io">dyapan33.github.io</a>
 <br>
 PERSONAL #2: COMING SOON
