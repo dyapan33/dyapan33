@@ -1,10 +1,5 @@
 <h1>Welcome!</h1>
-<p>Welcome to my account Visitor!</p>
-
-#
-## Past on GitHub
-<p>My old account (dyapan7) is locked because the email atached to it is a deleted account now. So this my new account on GitHub.</p>
-
+<p>Welcome to my account Visitor! Here are some quick fun stuff:</p>
 
 #
 ## Stats
