@@ -1,6 +1,6 @@
 # Dyapan33
 ##### CodingIn(Python, C, C++, HTML, CSS, JS);
-<h1>Welcome!</h1>
+<h2>Welcome!</h2>
 <p>Welcome to my account Visitor! Here are some quick, fun stuff about my :</p>
 
 ## Stats
