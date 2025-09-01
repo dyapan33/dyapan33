@@ -9,6 +9,6 @@
 
 
 ## My Websites
-PERSONAL #1: <a href="http://dyapan33.github.io">dyapan33.github.io</a>
-<br>
-PERSONAL #2: COMING SOON
+I have had to delete the site, I am gonna redo everything in my website, thanks for understanding!
+
+
