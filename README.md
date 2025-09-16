@@ -5,13 +5,10 @@
 
 ## Stats
 <div align="center"> 
-    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true)
+    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true)
     </br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyapan33)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=radical)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyapan33&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Websites
 I have had to delete the site, I am gonna redo everything in my website, currently I am finding it difficult to get it up and running becuase I removed the custom domain.
