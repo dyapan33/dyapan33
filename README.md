@@ -4,11 +4,12 @@
 <p>Welcome to my account Visitor! Here are some quick, fun stuff about my :</p>
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyapan33&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center"> 
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=radical)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyapan33&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## My Websites
-I have had to delete the site, I am gonna redo everything in my website, thanks for understanding!
+I have had to delete the site, I am gonna redo everything in my website, currently I am finding it difficult to get it up and running becuase I removed the custom domain.
 
 
