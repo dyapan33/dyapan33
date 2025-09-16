@@ -10,6 +10,7 @@
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyapan33&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true&theme=radical)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyapan33&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Websites
