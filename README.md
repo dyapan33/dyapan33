@@ -7,7 +7,7 @@
 <div align="center"> 
     ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyapan33&show_icons=true)
     </br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyapan33)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyapan33)](https://github.com/dyapan33/github-readme-stats)
 </div>
 
 ## My Websites
