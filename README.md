@@ -1,4 +1,4 @@
-# Hi, I'm Tech Code 👋
+# Hi, I'm dyapan33 👋
 <p> IKnow(Python, C, C++, HTML, CSS, JS); </p>
 <h2>Welcome!</h2>
 <p>Welcome to my account Visitor! Here are some quick, fun stuff about me: </p>
