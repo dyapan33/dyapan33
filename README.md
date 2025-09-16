@@ -1,7 +1,10 @@
-# Dyapan33
-##### CodingIn(Python, C, C++, HTML, CSS, JS);
+# Hi, I'm Tech Code 👋
+<p> IKnow(Python, C, C++, HTML, CSS, JS); </p>
 <h2>Welcome!</h2>
-<p>Welcome to my account Visitor! Here are some quick, fun stuff about my :</p>
+<p>Welcome to my account Visitor! Here are some quick, fun stuff about me: </p>
+<p>I am making a game using C/C++</p>
+<p>I am working on a graphics library that <b>does not use Vulkan, OpenGL, Metal, DirectX11/12 or any already existing graphics library.</b></p>
+<p>I have proof that I am working on a graphics library... look at my 'Repositories' and try find it!</p>
 
 ## Stats
 <div align="center"> 
