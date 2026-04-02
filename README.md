@@ -8,5 +8,6 @@
 
 ## My Websites
 I have had to delete the site, I am gonna redo everything in my website, currently I am finding it difficult to get it up and running becuase I removed the custom domain.
+UPDATE: I have deployed something at: https://frenchflashcards.vercel.app. Going to redo that website because it doesn't really teach you French?
 
 
