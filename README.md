@@ -1,4 +1,4 @@
-# Hi, I'm dyapan33 👋
+<h1> Hi, I'm Dyaus. 👋</h1>
 <h2>Programming Languages I know</h2>
 <p> printf("Python, C, C++, HTML, CSS, JS\n"); </p>
 <p> printf("I want to learn (in the future maybe?): Rust?\n");</p>
