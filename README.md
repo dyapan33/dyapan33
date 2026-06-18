@@ -1,13 +1,14 @@
 # Hi, I'm dyapan33 👋
-<p> IKnow("Python, C, C++, HTML, CSS, JS"); </p>
+<h2>Programming Languages I know</h2>
+<p> printf("Python, C, C++, HTML, CSS, JS\n"); </p>
+<p> printf("I want to learn (in the future maybe?): Rust?\n");</p>
 <h2>Welcome!</h2>
 <p>Welcome to my account! Here are some quick, fun stuff about me: </p>
-<p>I am making a game using C/C++</p>
-<p>I am working on a graphics library that <b>does not use Vulkan, OpenGL, Metal, DirectX11/12 or any already existing graphics library.</b></p>
 <p>I am working on my own web browser.</p>
+<p>I am distilling Deepseek to create my own AI model.</p>
+<p>I am creating a math benchmark for AI models.</p>
 
 ## My Websites
-I have had to delete the site, I am gonna redo everything in my website, currently I am finding it difficult to get it up and running becuase I removed the custom domain.
-UPDATE: I have deployed something at: https://frenchflashcards.vercel.app. Going to redo that website because it doesn't really teach you French?
+Under development.
 
 
